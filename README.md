@@ -24,7 +24,7 @@ The pipeline consists of the following components:
 4. **Visualization**: Power BI dashboards provide interactive visualizations of server health, performance trends, and anomalies.  
 
 ### Architecture Diagram
-![Architecture Diagram](path-to-your-screenshot.png)  
+![Architecture Diagram](images/architecture.png)  
 
 ---
 
@@ -38,11 +38,11 @@ The pipeline consists of the following components:
 
 ### Power BI Dashboards
 Here is a screenshot from the Power BI dashboard demonstrating server performance and anomalies:
-![XYZ Company Dashboard](images/powerbi_overview.png)  
+![XYZ Company Dashboard](images/powerbi_dashboard.png)  
 
 ### Screenshots from Azure Databricks
-![DataLake Screenshot](path-to-screenshot1.png)  
-![Databricks Screenshot](path-to-screenshot2.png)  
+![DataLake Screenshot](data_lake.png)  
+![Databricks Screenshot](data_bricks.png)  
 *(Add as many screenshots as needed to demonstrate your pipeline)*
 
 ---
