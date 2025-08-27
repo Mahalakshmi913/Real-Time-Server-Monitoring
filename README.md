@@ -41,10 +41,8 @@ Here is a screenshot from the Power BI dashboard demonstrating server performanc
 ![XYZ Company Dashboard](images/powerbi_dashboard.png)  
 
 ### Screenshots from Azure Databricks
-![DataLake Screenshot](data_lake.png)  
-![Databricks Screenshot](data_bricks.png)  
-*(Add as many screenshots as needed to demonstrate your pipeline)*
-
+![DataLake Screenshot](images/data_lake.png)  
+![Databricks Screenshot](images/data_bricks.png)  
 ---
 
 ## How to Use
