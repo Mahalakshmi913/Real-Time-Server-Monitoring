@@ -40,7 +40,7 @@ The pipeline consists of the following components:
 Here is a screenshot from the Power BI dashboard demonstrating server performance and anomalies:
 ![XYZ Company Dashboard](images/powerbi_dashboard.png)  
 
-### Screenshots from Azure Databricks
+### Screenshots from Azure DataLake and Databricks
 ![DataLake Screenshot](images/data_lake.png)  
 ![Databricks Screenshot](images/data_bricks.png)  
 ---
